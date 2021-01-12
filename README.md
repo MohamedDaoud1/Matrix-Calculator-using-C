@@ -9,7 +9,7 @@ Main menu:
 
 | Tranpose: | Determinant: |
 | --- | --- |
-| <img src="Results/single square/Transpose.png" width="400"/> | <img src="Results/single square/Determinant.png" width="400"/> |
+| <img src="Results/single square/Transpose.png" width="500"/> | <img src="Results/single square/Determinant.png" width="500"/> |
 
 Inverse:
 <img src="Results/single square/inverse.png" width="400"/>
