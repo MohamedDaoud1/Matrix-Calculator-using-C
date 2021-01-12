@@ -11,11 +11,15 @@ Main menu:
 | --- | --- |
 | <img src="Results/single square/Transpose.png" width="800"/> | <img src="Results/single square/Determinant.png" width="800"/> |
 
-Inverse:
-<img src="Results/single square/inverse.png" width="400"/>
-Multiply by constant:
-<img src="Results/single square/Multi Constant.png" width="400"/>
-Power:
-<img src="Results/single square/Power.png" width="400"/>
+| Inverse: | Multiply by constant: |
+| --- | --- |
+| <img src="Results/single square/inverse.png" width="800"/> | <img src="Results/single square/Multi Constant.png" width="800"/> |
+
+| Power: | Trace: |
+| --- | --- |
+| <img src="Results/single square/Power.png" width="800"/> | <img src="Results/single square/Trace.png" width="800"/> |
+
+
+
 
 
